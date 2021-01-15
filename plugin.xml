@@ -68,7 +68,7 @@
 		<framework src="com.pushwoosh:pushwoosh:6.0.5"/>
 		<framework src="com.pushwoosh:pushwoosh-amazon:6.0.5"/>
 		<framework src="com.pushwoosh:pushwoosh-firebase:6.0.5"/>
-			<framework src="com.pushwoosh:pushwoosh-badge:6.0.5"/>
+		<framework src="com.pushwoosh:pushwoosh-badge:6.0.5"/>
 		<framework src="com.pushwoosh:pushwoosh-inbox:6.0.5"/>
 		<framework src="com.pushwoosh:pushwoosh-inbox-ui:6.0.5"/>
 	</platform>
